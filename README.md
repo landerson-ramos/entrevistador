@@ -1,2 +1,0 @@
-# entrevistador
-Entrevistador de Carreira
